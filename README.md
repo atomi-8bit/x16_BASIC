@@ -19,5 +19,13 @@ sprtest.bas-> Human readable BASIC file
 
 JDSPR.BIN  -> Sprite graphic
 
+SCREEN
+=======
+Sample for commander x16 API GRAPH_...
+
+SCREEN    -> X16 BASIC file
+
+screen.bas-> Human readable BASIC file
+
 
 
