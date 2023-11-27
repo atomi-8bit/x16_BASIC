@@ -1,4 +1,4 @@
-# x16_BASIC
+# X16_BASIC
 Commander X16 Basic Samples
 
 SLOT
