@@ -5,7 +5,7 @@ SLOT
 ====
 Sample BASIC program for a simple PETSCII slot machine.
 
-SLOT      -> X16 BASIC file
+SLOT.PRG  -> X16 BASIC file
 
 SLOT.BAS  -> Human readable BASIC file
 
